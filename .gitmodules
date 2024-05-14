@@ -1,0 +1,3 @@
+[submodule "Chapter2/scaffold_app"]
+	path = Chapter2/scaffold_app
+	url = https://github.com/rbenv/rbenv.git
