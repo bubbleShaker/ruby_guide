@@ -1,24 +1,2 @@
-# README
-
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+# このリポジトリについて
+[現場で使える Ruby on Rails 5速習実践ガイド](https://www.amazon.co.jp/gp/product/B07JHQ9B5T/ref=ppx_yo_dt_b_d_asin_title_351_o00?ie=UTF8&psc=1)のアウトプット用です。
